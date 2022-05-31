@@ -42,6 +42,15 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 ![image](https://user-images.githubusercontent.com/105680588/171093319-252e3473-6ef1-4e3e-b035-ebd1da03aab8.png)
 
+![image](https://user-images.githubusercontent.com/105680588/171098094-16de1146-9c00-477c-bae8-584f82159f2d.png)
+
+![image](https://user-images.githubusercontent.com/105680588/171098143-ae61fafa-8ed8-4f40-ac1a-cb7a64ec882a.png)
+
+![image](https://user-images.githubusercontent.com/105680588/171098177-599f6a79-0eb6-4320-a62d-a06a7e0276d4.png)
+
+![image](https://user-images.githubusercontent.com/105680588/171098197-af9520d7-a8cf-4aed-8a9d-a7d912be9bb8.png)
+
+
 **1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.**
 
