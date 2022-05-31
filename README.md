@@ -90,9 +90,10 @@ resultados de las mediciones en la tabla 1.1.**
 **Video**
 
 
-
 **Conclusiones**
 
+Se determino las corrientes y los voltajes de la figura 1.1 del circuito resistivo mixto con el metodo de las leyes de Corrientes
+y Voltajes de Kirchhoff.
 
 **Bibliografia**
 
