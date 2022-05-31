@@ -89,6 +89,7 @@ resultados de las mediciones en la tabla 1.1.**
 
 **Video**
 
+https://www.youtube.com/watch?v=oVV8k7WCMKU
 
 **Conclusiones**
 
@@ -107,11 +108,5 @@ Hernandez, P. (n.d.). Corriente electrica. Slideshare.net. Retrieved May 31, 202
 Las leyes de Kirchhoff. (n.d.). Khan Academy. Retrieved May 31, 2022, from https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
 (N.d.). Electronicacompleta.Com. Retrieved May 31, 2022, from https://electronicacompleta.com/leyes-de-kirchhoff/
-
-
-
-
-
-
 
 
